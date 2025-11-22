@@ -4,7 +4,7 @@
 ## 📸 デモンストレーション
 ![Csv-json-converter 実行画面](demo.png) 
 
-## 🤔 開発背景
+## 🧐 開発背景
 現代のデータ処理において、CSVとJSONは最も広く使われる2つの形式です。しかし、それぞれ以下のような用途の違いがあります。
 
 1. CSV (Comma-Separated Values)：
@@ -37,7 +37,7 @@ This tool is a command-line utility for bi-directional conversion between CSV an
 ## 📸 Demonstration
 ![Csv-json-converter 実行画面](demo.png) 
 
-## 🤔 Why We Built This
+## 🧐 Development Background
 In modern data processing, CSV and JSON are the two most widely used formats. However, their applications differ significantly:
 
 1. CSV (Comma-Separated Values):
