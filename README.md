@@ -14,8 +14,8 @@
   * Excelなどの表計算ソフトで直接開いて編集・確認するのに便利です。
    
 2. JSON (JavaScript Object Notation)：
-  * Web APIやプログラミング言語間でデータをやり取りする際に標準的に使用されます。
-  * 入れ子構造や複雑なデータ型を扱うことができ、機械処理に適しています。
+ * Web APIやプログラミング言語間でデータをやり取りする際に標準的に使用されます。
+ * 入れ子構造や複雑なデータ型を扱うことができ、機械処理に適しています。
 
 多くの場合、開発者は「APIから取得したJSONデータを分析のためにCSVに変換したい」あるいは「スプレッドシートで管理しているCSVデータをAPI連携のためにJSONに変換したい」という、形式の壁に直面します。このツールは、その変換を簡単かつ信頼性の高い方法で実現します。
 
@@ -70,5 +70,5 @@ Developers often face a "format barrier," needing to convert JSON data obtained 
 ## 💻 How to Run
 1. Save the Python code as convert_tool.py.
 2. Run the script from your terminal or command prompt, specifying the file you wish to convert as an argument.
-  * Convert CSV to JSON: python convert_tool.py example.csv
-  * Convert JSON to CSV: python convert_tool.py example.json
+ * Convert CSV to JSON: python convert_tool.py example.csv
+ * Convert JSON to CSV: python convert_tool.py example.json
