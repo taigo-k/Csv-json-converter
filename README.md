@@ -4,6 +4,8 @@
 ## 📸 デモンストレーション
 ![Csv-json-converter 実行画面](demo.png) 
 
+---
+
 ## 🧐 開発背景
 現代のデータ処理において、CSVとJSONは最も広く使われる2つの形式です。しかし、それぞれ以下のような用途の違いがあります。
 
@@ -17,10 +19,14 @@
 
 多くの場合、開発者は「APIから取得したJSONデータを分析のためにCSVに変換したい」あるいは「スプレッドシートで管理しているCSVデータをAPI連携のためにJSONに変換したい」という、形式の壁に直面します。このツールは、その変換を簡単かつ信頼性の高い方法で実現します。
 
+---
+
 ## 🚀 主な機能
 * 双方向変換: .csv から .json へ、または .json から .csv への変換を自動で判断し実行します。
 * 堅牢なエラー処理: ファイルの存在チェック、サポート外形式のチェック、JSON構造の妥当性検証を行います。
 * 依存関係ゼロ: Pythonの標準機能のみで動作するため、pip install による外部ライブラリのインストールは一切不要です。
+
+---
 
 ## 💻 実行方法
 1. Pythonコードを convert_tool.py という名前で保存します。
@@ -37,6 +43,8 @@ This tool is a command-line utility for bi-directional conversion between CSV an
 ## 📸 Demonstration
 ![Csv-json-converter 実行画面](demo.png) 
 
+---
+
 ## 🧐 Development Background
 In modern data processing, CSV and JSON are the two most widely used formats. However, their applications differ significantly:
 
@@ -50,10 +58,14 @@ In modern data processing, CSV and JSON are the two most widely used formats. Ho
 
 Developers often face a "format barrier," needing to convert JSON data obtained from an API for analysis into CSV, or converting management data in CSV to JSON for API integration. This tool was developed to handle this conversion easily and reliably.
 
+---
+
 ## 🚀 Key Features
 * Bi-directional Conversion: Automatically detects and executes conversion from .csv to .json or .json to .csv.
 * Robust Error Handling: Includes file existence checks, unsupported format checks, and JSON structure validation.
 * Zero Dependencies: Operates purely on Python's standard features, requiring absolutely no external library installation (pip install is unnecessary).
+
+---
 
 ## 💻 How to Run
 1. Save the Python code as convert_tool.py.
